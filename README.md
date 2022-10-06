@@ -1,3 +1,2 @@
-# JAVA111_All_Assignment-Evaluation
-This repository  Core java related all Assignment and Evaluation 
-
+# JAVA111_All_Assignment-EvaluationJavaAssignments
+Core Java 8 | Inheritance | Abstraction | Encapsulations | PolyMorphism | IS-A And HAS-A Relationship | Java Date Formatter | FileReader | Java Collections | Map | Set | Tree | Assignments.
